@@ -1,4 +1,1 @@
-* linguist-vendored
-*.cpp linguist-vendored=false
-*.hpp linguist-vendored=false
 *.pl linguist-language=Prolog
